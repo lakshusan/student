@@ -1,10 +1,10 @@
 ---
-title: Tables of Data
 toc: false
 comments: false
 layout: post
+title: Tables of Data
 description: A table of data based on one of my interests, books!
-courses: {compsci: {'week': 3}}
+courses: {compsci: {week: 3}}
 type: hacks
 ---
 
@@ -47,7 +47,7 @@ First listed is code for the HTML table, then the output.
                 <td>4,224</td>
             </tr>
             <tr>
-                <td>Champ Half Blood Chronicles</td>
+                <td>Camp Half Blood Chronicles</td>
                 <td>2005</td>
                 <td>11,102</td>
             </tr>
@@ -96,7 +96,7 @@ First listed is code for the HTML table, then the output.
                 <td>4,224</td>
             </tr>
             <tr>
-                <td>Champ Half Blood Chronicles</td>
+                <td>Camp Half Blood Chronicles</td>
                 <td>2005</td>
                 <td>11,102</td>
             </tr>
