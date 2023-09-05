@@ -10,6 +10,8 @@ type: hacks
 
 ### Markdown Table
 
+Markdown tables are benecifial since you can already somewhat see a sample of what the table will appear as on the site, while the others involve a new line of code for each cell (rather than each row).
+
 | Book Series | Release Year | Total Pages |
 |------|-------|------|-------|-------|
 |Harry Potter|1997|4,224|
