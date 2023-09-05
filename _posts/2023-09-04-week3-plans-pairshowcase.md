@@ -25,3 +25,12 @@ Explain Overview of Previous Work
 - [ - ] Experimenting with JS and Python
 - [ - ] Made Python Quiz
 - [ - ] Insert Calculator
+
+What is new:
+- Different Table Formats (html, js, md)
+- Hacks within table 
+- Arushi and Chrissie suggested I add more than 1 type of table
+- ChatGPT feedback
+- JS Grade Calculator
+- More Additions to Lab Notebook
+- This Page!

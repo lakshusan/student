@@ -5,9 +5,8 @@ layout: post
 title: JS Grade Calculator
 description: Input different scores to find your overall grade
 courses: {compsci: {week: 3}}
-type: tangibles
+type: hacks
 ---
-%%html
 
 <!-- Heading -->
 <h1>Grade Calculator</h1>

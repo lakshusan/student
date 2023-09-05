@@ -5,7 +5,7 @@ layout: post
 title: ChatGPT Code Feedback
 description: ChatGPT's feedback on my code for creating a table based on data related to my interests
 courses: {compsci: {week: 3}}
-type: tangibles
+type: hacks
 ---
 
 

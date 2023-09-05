@@ -1,13 +1,12 @@
 ---
 title: JS Calculator
-comments: true
-hide: true
+comments: false
+hide: false
 layout: default
 description: A common way to become familiar with a language is to build a calculator.  This calculator shows off button with actions.
 permalink: /techtalk/home_style
-categories: [C7.0]
 courses: { compsci: {week: 2} }
-type: tangibles
+type: hacks
 ---
 
 <!-- 
@@ -33,12 +32,12 @@ HTML implementation of the calculator.
     /* calulator output 
       top bar shows the results of the calculator;
       result to take up the entirety of the first row;
-      span defines 4 columns and 1 row
+      span defines 4 columns and 4 rows
     */
     grid-column: span 4;
-    grid-row: span 1;
+    grid-row: span 4;
   
-    border-radius: 10px;
+    border-radius: 0px;
     padding: 0.25em;
     font-size: 20px;
     border: 5px solid black;
