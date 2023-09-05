@@ -1,5 +1,5 @@
 ---
-toc: false
+toc: true
 comments: false
 layout: post
 title: ChatGPT Code Feedback
@@ -8,19 +8,17 @@ courses: {compsci: {week: 3}}
 type: tangibles
 ---
 
-## ChatGPT Code Feedback
-
----
+### This is the feedback provided by ChatGPT for my table code with HTML.
 
 The provided code appears to be an HTML snippet that is intended to be used within a Jupyter Notebook cell, as indicated by the %%html magic command at the beginning. Here's a review of the code:
 
-HTML Structure: The code starts with an <h2> (header) element that provides a title for the content, indicating that it's an HTML cell output in a Jupyter Notebook. This is a good practice for clarity.
+HTML Structure: The code starts with an <*h2> (header) element that provides a title for the content, indicating that it's an HTML cell output in a Jupyter Notebook. This is a good practice for clarity.
 
-HTML Table: The main content of the code is a table element (<table>) with a class attribute set to "table." Inside the table, there is a table header (<thead>) containing column headers, and a table body (<tbody>) containing the data rows.
+HTML Table: The main content of the code is a table element (<*table>) with a class attribute set to "table." Inside the table, there is a table header (<*thead>) containing column headers, and a table body (<*tbody>) containing the data rows.
 
-Table Header: The table headers (<th>) are well-defined with three columns: "Book Series," "Release Year," and "Total Pages." This provides clarity and context to the data.
+Table Header: The table headers (<*th>) are well-defined with three columns: "Book Series," "Release Year," and "Total Pages." This provides clarity and context to the data.
 
-Table Rows: Each data row (<tr>) represents a book series, with three data cells (<td>) for the series name, release year, and total pages. The data is well-structured and organized.
+Table Rows: Each data row (<*tr>) represents a book series, with three data cells (<*td>) for the series name, release year, and total pages. The data is well-structured and organized.
 
 Data Formatting: The numbers in the "Release Year" and "Total Pages" columns are appropriately formatted with commas for better readability.
 
