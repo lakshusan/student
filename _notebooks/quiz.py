@@ -1,3 +1,35 @@
+
+
+from flask import Flask, render_template_string
+
+app = Flask(__name__)
+
+@app.route('/')
+def display_py_file():
+    # Read the content of your .py file
+    with open('"\\wsl.localhost\Ubuntu\home\lakshusan\vscode\student\_notebooks\quiz.py"', 'r') as py_file:
+        py_content = py_file.read()
+
+    # Define an HTML template
+    html_template = """
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Python File Content</title>
+    </head>
+    <body>
+        <h1>Content of your Python file:</h1>
+        <pre>{{ py_content }}</pre>
+    </body>
+    </html>
+    """
+
+    # Render the HTML template with the Python file content
+    return render_template_string(html_template, py_content=py_content)
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
 import getpass, sys
 
 def question_with_response(prompt):
