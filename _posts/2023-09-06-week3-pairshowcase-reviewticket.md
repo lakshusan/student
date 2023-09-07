@@ -9,4 +9,6 @@ type: tangibles
 ---
 
 - Week 0-2 -->
-Downloading VSCode & Tools (make command problem), Creating Home Page (trouble with text syntax and image sizing), 
+Downloading VSCode & Tools (make command problem), Creating Home Page (trouble with text syntax and image sizing), CompSci Notebook Page (date title format, md type)
+
+- Week 3

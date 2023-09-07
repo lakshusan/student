@@ -19,15 +19,15 @@ if rsp == "Lakshanya":
 else:
     print(rsp + " is incorrect!")
 
-rsp = question_with_response("What command is used to evaluate correct or incorrect response in this example?")
-if rsp == "if":
+rsp = question_with_response("What is an interest I mentioned in my data tables?")
+if rsp == "books":
     print(rsp + " is correct!")
     correct += 1
 else:
     print(rsp + " is incorrect!")
 
-rsp = question_with_response("Each 'if' command contains an '_________' to determine a true or false condition?")
-if rsp == "expression":
+rsp = question_with_response("What day is today?")
+if rsp == "Thursday":
     print(rsp + " is correct!")
     correct += 1
 else:
