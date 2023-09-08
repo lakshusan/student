@@ -26,9 +26,7 @@ Markdown tables are benecifial since you can already somewhat see a sample of wh
 First listed is code for the HTML table, then the output.
 
 
-```python
-%%html
-
+```html
 <h2>HTML Cell Output from Jupyter</h2>
 
 <!-- Body contains the contents of the Document -->
