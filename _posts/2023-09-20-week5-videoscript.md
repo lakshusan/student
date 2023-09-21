@@ -40,7 +40,8 @@ Avanthika: The purpose of this code is to more easily represent data. We enter d
 Lakshanya: It also allows us to speed up the process; instead of writing full sentences, our data is shown in a straightforward manner with less to read and consumes less storage.
 Avanthika: This code is based on the code with similar information about Mr. Mortensen  and Mr. Lopez that was given to us in an earlier code.
 Lakshanya: This information is similar to what we originally used on our home pages at the beginning of the year. Instead of Markdown format, we successfully used python for the code, displayed on Jupyter Notebooks using an .ipynb file in the python cell. 
-Avanthika: We used this data and changed some of the information so it matches better. Lakshanya: We had one error where there was no ‘=’ sign between the variable and the data, so the object was not callable.
+Avanthika: We used this data and changed some of the information so it matches better. 
+Lakshanya: We had one error where there was no ‘=’ sign between the variable and the data, so the object was not callable.
 Avanthika: In our third code, we made an average calculator code. It takes numbers from a data set and takes the average.
 Lakshanya: The code had different types of inputs with different numbers and amount of numbers. Each time, the calculator outputs the arithmetic mean of the data set.
 Avanthika: We also included an additional code which tested each type of data set calculations; this shows the accuracy of the calculations.
