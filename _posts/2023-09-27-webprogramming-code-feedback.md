@@ -95,3 +95,9 @@ If this code is part of a larger application, it's important to consider the ove
 
 The link switch didn't work, so I made some changes to the code to allow it to work. Everything else ran smoothly, and I explained the cause of the errors appearing in the 'problems' tab. The magic command was causing problems in VSCode, but the cells did not run otherwise (ignorable error).
 
+### Avanthika's Scoring
+
+- use placeholders like {} to insert values quickly
+- good job with using if statements
+- try to indent your formatting so it's easier to look at
+- add an extra line between lines of text to make clearer
