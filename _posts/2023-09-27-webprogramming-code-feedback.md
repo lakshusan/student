@@ -101,3 +101,47 @@ The link switch didn't work, so I made some changes to the code to allow it to w
 - good job with using if statements
 - try to indent your formatting so it's easier to look at
 - add an extra line between lines of text to make clearer
+
+## Grading Others
+
+### Eun’s Grade
+.5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack). Added a Daily Study Tracker.
+
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided under data types hacks (Data Types Hack)
+
+.5 point: Have a working javascript code cell in a notebook which modifies elements in the first HTML code cell hack or another HTML code cell based on the same wireframe representation (DOM Hack)
+
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided in the javascript hack (Javascript Hack)
+
+.5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Added a form for challenge.
+
+3.8/4 Good job on going above and beyond.utterances not working
+
+
+### Avanthika’s Grade
+.5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack). Added a Daily STudy Tracker
+
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided under data types hacks (Data Types Hack)
+
+.5 point: Have a working javascript code cell in a notebook which modifies elements in the first HTML code cell hack or another HTML code cell based on the same wireframe representation (DOM Hack)
+
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided in the javascript hack (Javascript Hack)
+
+.5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Added a form for challenge.
+
+3.85/4 Good job on going above and beyond. Utterances working.
+
+
+### Bella's Grade
+
+.5 point: Have a working HTML code cell in a notebook based on the wireframe representation provided under HTML hacks (HTML Hack). Added a additional instrument practice tracker page
+
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided under data types hacks. Added passion project themed object (Data Types Hack)
+
+.5 point: Have a working javascript code cell in a notebook which modifies elements in the first HTML code cell hack or another HTML code cell based on the same wireframe representation (DOM Hack)
+
+.5 point: Have a working javascript code cell in a notebook based on the instructions provided in the javascript hack (Javascript Hack)
+
+.5 point: Have code cells in a notebook which shows the corrections made to the first three code cells in the 1.4 correcting errors page (Correcting Errors Hack) Added a form for challenge, menu ordering
+
+3.95/4 Good job on going above and beyond. Utterances working. Add more comments
