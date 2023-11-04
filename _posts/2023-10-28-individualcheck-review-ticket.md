@@ -10,6 +10,7 @@ type: tangibles
 
 # Project Involvement - Code
 
+- Background of Tracker Page - main visual
 - Main Tracker Creation/Adjustment (see weeks 8-10 plans)
 - JavaScript Fetch codes (based on that of user)
 
@@ -53,3 +54,13 @@ type: tangibles
 
 <img src = "https://media.discordapp.net/attachments/796087225535168512/1166978366197477386/devprocedures_q2.png?ex=654c744b&is=6539ff4b&hm=20a80e15f5efe2e0fab99d7744d0dcac5025d8df0619ffce0439edbed090f20f&=&width=1134&height=993">
 
+# Collegeboard Practice MCQ
+
+What I didn't know:
+
+- What the IETF does (Internet Engineering Task Force) - protocol and technical standards on the Internet
+- How Bits work (log base 2 calculations)
+- Symmetric Encryption - using the same key for encryption and decryption
+- Cloud Computing - remote media storage
+- Undecidable Problems - yes/no answer expected, cannot be fully accurate
+- Open Standaeds and Protocols - communicating software and hardware
