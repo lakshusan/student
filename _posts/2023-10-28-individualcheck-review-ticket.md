@@ -14,11 +14,35 @@ type: tangibles
 - JavaScript Fetch codes (based on that of user)
 
 
+|Username   |Score|
+|-----------|-----|
+|jm1021     |9.1  |
+|Chrissiez  |8.6  |
+|srivaidyas |8.65 |
+|DanteA-tech|8.37 |
+|AdiBricks  |8.8  |
+
+<b>Average: 8.704</b>
+
+
 ## Issue Recap
 
 - Tracker Page Adjustments - improving tracker page (data input, color theme)
 - Fix Feedback - added feedback depending on amount practiced (15 minutes or more vs less)
 - Frontend Integration Code - fetch code to collect data from shown table (problems with the nested loop - input in random cell)
+
+## Key Commits (project)
+
+### Student Repository
+
+- gif bg update
+- data fetch
+- track code table
+- data collection categories
+
+### Frontend Repository
+
+- passionproj main file
 
 
 # Individual Blog
