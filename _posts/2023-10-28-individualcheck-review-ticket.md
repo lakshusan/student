@@ -63,4 +63,12 @@ What I didn't know:
 - Symmetric Encryption - using the same key for encryption and decryption
 - Cloud Computing - remote media storage
 - Undecidable Problems - yes/no answer expected, cannot be fully accurate
-- Open Standaeds and Protocols - communicating software and hardware
+- Open Standards and Protocols - communicating software and hardware
+
+
+---
+
+
+# Trimester 1 Reflection
+
+I have had a big learning curve throughout this trimester. I came into this course knowing next to nothing about computer science. My parents always wanted me to learn about it, since it relates to both of their careers but I never found it interesting until I actually started. It turned out to be a fun experience, though the tiny mistakes were often frustrating when they took hours to figure out. I had a great time figuring things out with my team, and there were a lot of things I learned thanks to them. I learned a lot of basics of python and javascript, as well as lots of formatting on HTML and markdown. During this trimester, I mainly focused on the frontent portion of our project, but I may branch out to backend in the future.
